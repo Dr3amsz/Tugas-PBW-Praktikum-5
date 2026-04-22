@@ -49,7 +49,6 @@
         Todo</button>
     </div>
 
-    <!-- Modal nya -->
     <div class="modal fade" id="createTodoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
@@ -146,7 +145,6 @@
       </div>
     </section>
 
-    <!-- Modal detail todo -->
     <div class="modal fade" id="detailTodoModal" tabindex="-1" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
